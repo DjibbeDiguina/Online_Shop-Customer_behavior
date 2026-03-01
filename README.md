@@ -1,4 +1,4 @@
-# 📊 Customer Behavior Analysis  
+#  Customer Behavior Analysis  
 ### Retail Revenue Intelligence & Customer Segmentation  
 
 <p align="left">
@@ -13,7 +13,7 @@
 
 ---
 
-## 📌 Table of Contents
+##  Table of Contents
 
 - [Project Background](#project-background)
 - [Data Preparation & Structure](#data-preparation--structure)
