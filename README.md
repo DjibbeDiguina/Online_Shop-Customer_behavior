@@ -3,7 +3,7 @@
 
 <p align="left">
 
-![Python](https://img.shields.io/badge/Python-Data%20Preparation-blue)
+[![Python](https://img.shields.io/badge/Python-Data%20Preparation-blue)](OnlineShopingAnalyse.ipynb)
 ![MySQL](https://img.shields.io/badge/MySQL-Business%20Analysis-orange)
 ![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
