@@ -3,9 +3,9 @@
 
 <p align="left">
 
-[![Python](https://img.shields.io/badge/Python-Data%20Preparation-blue)](OnlineShopingAnalyse.ipynb)
-[![MySQL](https://img.shields.io/badge/MySQL-Business%20Analysis-orange)](sale_good_project.sql)
-[![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)](analytic_customer_behavior.pbix)
+[![Python](https://img.shields.io/badge/Python-Data%20Preparation-blue)](./notebooks/OnlineShopingAnalyse.ipynb)
+[![MySQL](https://img.shields.io/badge/MySQL-Business%20Analysis-orange)](./sql/sale_good_project.sql)
+[![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)](./dasboard/analytic_customer_behavior.pbix)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 ![Target Role](https://img.shields.io/badge/Role-Junior%20Data%20Analyst-blueviolet)
 
