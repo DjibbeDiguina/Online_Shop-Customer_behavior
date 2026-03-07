@@ -13,6 +13,29 @@
 
 ---
 
+## Business Problem
+
+The retail company collects thousands of customer transactions but lacks clear insights into revenue drivers, customer demographics, and discount
+effectiveness.
+
+The objective of this project is to analyze purchasing behavior and
+identify strategic opportunities for revenue optimization.
+
+## Key Insights
+
+- Clothing generates the highest revenue (~$100K)
+- 43% of transactions involve discounts
+- Loyal customers represent the majority of purchases
+- Male customers generate significantly higher total revenue
+
+## Business Impact
+
+If implemented, the recommendations could help:
+
+- Reduce unnecessary discount spending
+- Increase subscription conversions
+- Focus marketing on top revenue categories
+
 ##  Table of Contents
 
 - [Project Background](#project-background)
